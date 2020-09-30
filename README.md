@@ -1,7 +1,7 @@
 # Artificial Intelligence Assignment 1
  Implimentation of BFS and recursive DFS on a given graph
 
-This is an implimented as a basic C# console app. The easiest way to run it is to open the solution in Visual Studio (I'm using Community, 2017), and just press the run button ▶ or F5.
+This is an implimented as a basic C# console app. The easiest way to run it is to open the [solution](AI_Assignment1/AI_Assignment1.sln) in Visual Studio (I'm using Community, 2017), and just press the run button ▶ or F5.
 
 The code itself can be found at AI_Assignment1/AI_Assignment1/ [Program.cs](AI_Assignment1/AI_Assignment1/Program.cs)
 
