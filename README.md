@@ -8,6 +8,7 @@ The code itself can be found at AI_Assignment1/AI_Assignment1/Program.cs
 The graph for the homework is setup in the driver. The output is it each node calling out when it is visited, to the difference between this in DFS and BFS.
 
 example output:
+~~~
 Running BFS Search
 Visited Node A
 Visited Node B
@@ -22,3 +23,4 @@ Visited Node E
 Visited Node F
 Visited Node D
 Visited Node B 
+~~~
