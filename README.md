@@ -5,7 +5,7 @@ This is an implimented as a basic C# console app. The easiest way to run it is t
 
 The code itself can be found at AI_Assignment1/AI_Assignment1/ [Program.cs](AI_Assignment1/AI_Assignment1/Program.cs)
 
-The graph for the homework is setup in the driver. The output is it each node calling out when it is visited, to the difference between this in DFS and BFS.
+The [graph](grid.png) for the homework is setup in the driver. The output is it each node calling out when it is visited, to the difference between this in DFS and BFS.
 
 example output:
 ~~~
